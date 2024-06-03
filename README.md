@@ -1,5 +1,5 @@
 
-# Brief of Srchi's Store Data
+# Brief of Archi's Store Data
 Welcome to the Annual Data Analysis Report for Archi's Store! 
 The objectives of this thorough data analysis are:
 - Analyze online store performance
